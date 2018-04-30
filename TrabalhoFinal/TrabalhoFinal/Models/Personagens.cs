@@ -14,8 +14,8 @@ namespace TrabalhoFinal.Models
 
         }
 
-        public int ID { get; set; }
-        public string Photo { get; set; }
+        public int ID { get; set;}
+        public string Photo { get; set;}
         public string Video { get; set; }
         public string Nome { get; set; }
         public string tipo { get; set; }

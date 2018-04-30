@@ -150,6 +150,7 @@
     <Compile Include="Models\Diretor.cs" />
     <Compile Include="Models\Escritor.cs" />
     <Compile Include="Models\Filmes.cs" />
+    <Compile Include="Models\FilmesDB.cs" />
     <Compile Include="Models\Personagens.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
