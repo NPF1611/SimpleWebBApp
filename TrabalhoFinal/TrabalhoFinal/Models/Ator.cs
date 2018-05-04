@@ -13,7 +13,7 @@ namespace TrabalhoFinal.Models
 
 
         }
-
+        [Key]
         public int ID { get; set; }
         public string Photo { get; set; }
         public string Video { get; set; }
